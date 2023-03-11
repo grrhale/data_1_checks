@@ -1,3 +1,8 @@
+"""
+data in assets folder sourced from:
+https://www.epa.gov/outdoor-air-quality-data/download-daily-data
+"""
+
 # import pandas and matplotlib
 import pandas as pd
 import matplotlib.pyplot as plt
