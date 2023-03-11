@@ -52,3 +52,4 @@ df_Carrithers.plot(x='Date', ax=airQ_plot, y='Daily Mean PM2.5 Concentration',
 
 # place legend to the left of the plot
 plt.legend(loc='center left', bbox_to_anchor=(1.0, 0.5))
+plt.show()
