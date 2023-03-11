@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # title placed here to consolidate length
-title = 'Daily Mean PM2.5 Readings by EPA Monitoring Station:\n \
+title = 'Daily Mean PM2.5 Readings by EPA Monitoring Station:\n\
 Louisville, KY area before and after the 3/3/23 windstorm.\n\
 (PM2.5: lower reading = better air quality)' 
 
